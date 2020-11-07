@@ -11,6 +11,7 @@ It is simple console application using python.
 * user can view and search for projects
 * user can create a project
 * user can delete or edit his own projects
+* saving data on files
 
 ## screenshots
 
