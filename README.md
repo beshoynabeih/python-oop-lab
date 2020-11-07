@@ -14,4 +14,7 @@ It is simple console application using python.
 
 ## screenshots
 
-![]
+![first screenshot](https://github.com/beshoynabeih/python-oop-lab/blob/main/imgages/Screenshot%20from%202020-11-07%2020-16-56.png "screenshot of the project")
+
+![second screenshot](https://github.com/beshoynabeih/python-oop-lab/blob/main/imgages/Screenshot%20from%202020-11-07%2020-17-20.png "screenshot of the project")
+
